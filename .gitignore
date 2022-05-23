@@ -4,3 +4,4 @@ nps_*
 # !ep_19.pth
 *pkl*
 scores*
+transfer_models.sh
