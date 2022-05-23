@@ -6,8 +6,8 @@ conda create -y -n DL_env python=3.9 cupy pkg-config compilers libjpeg-turbo ope
 conda activate DL_env
 pip install torchattacks pytorch-msssim scikit-image wand torchmetrics seaborn gdown scipy==1.7.3
 ```
-*Note 1: Each line of each bash file below executes backround process to run code in parallel. Carefull comment out code in bash file based on the GPUs avaialble in your machine*
-*Note 2: If you'd like to skip training models, please download the 'saved_state_dicts' folder from [this drive link](https://drive.google.com/drive/folders/13D-3gLl8_SAvnoWUf8LNTdc54XI1lx5y?usp=sharing) and proceed to the Perturbation Spectrum Analysis section*
+* Note 1: Each line of each bash file below executes backround process to run code in parallel. Carefull comment out code in bash file based on the GPUs avaialble in your machine
+* Note 2: If you'd like to skip training models, please download the 'saved_state_dicts' folder from [this drive link](https://drive.google.com/drive/folders/13D-3gLl8_SAvnoWUf8LNTdc54XI1lx5y?usp=sharing) and proceed to the Perturbation Spectrum Analysis section
 
 ## Training Models
 ### Standard and Adversarial Training
