@@ -1,0 +1,6 @@
+nps_*
+*.pth*
+# !ep_76.pth
+# !ep_19.pth
+*pkl*
+scores*

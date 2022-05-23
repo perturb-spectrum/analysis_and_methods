@@ -1,0 +1,110 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+checking for ../data/pgd_AT_0.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 0.0.
+loading from ../data/pgd_AT_0.0_resnet18_eval_on_10.0..
+AT_0.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 0.0
+checking for ../data/pgd_AT_1.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 2.66.
+loading from ../data/pgd_AT_1.0_resnet18_eval_on_10.0..
+AT_1.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 4.29
+AT_1.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 2.7
+AT_1.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 2.75
+AT_1.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 2.63
+AT_1.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 2.66
+checking for ../data/pgd_AT_2.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 9.63.
+loading from ../data/pgd_AT_2.0_resnet18_eval_on_10.0..
+AT_2.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 13.15
+AT_2.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 10.01
+AT_2.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 9.9
+AT_2.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 9.52
+AT_2.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 9.69
+checking for ../data/pgd_AT_3.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 17.81.
+loading from ../data/pgd_AT_3.0_resnet18_eval_on_10.0..
+AT_3.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 22.37
+AT_3.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 18.73
+AT_3.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 18.32
+AT_3.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 17.91
+AT_3.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 17.84
+checking for ../data/pgd_AT_4.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 24.41.
+loading from ../data/pgd_AT_4.0_resnet18_eval_on_10.0..
+AT_4.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 28.58
+AT_4.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 25.38
+AT_4.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 24.99
+AT_4.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 24.59
+AT_4.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 24.42
+checking for ../data/pgd_AT_5.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 29.79.
+loading from ../data/pgd_AT_5.0_resnet18_eval_on_10.0..
+AT_5.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 33.23
+AT_5.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 30.6
+AT_5.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 30.6
+AT_5.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 30.38
+AT_5.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 29.72
+checking for ../data/pgd_AT_6.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 33.58.
+loading from ../data/pgd_AT_6.0_resnet18_eval_on_10.0..
+AT_6.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 37.69
+AT_6.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 34.54
+AT_6.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 34.56
+AT_6.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 34.02
+AT_6.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 33.62
+checking for ../data/pgd_AT_7.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 36.81.
+loading from ../data/pgd_AT_7.0_resnet18_eval_on_10.0..
+AT_7.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 40.01
+AT_7.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 37.22
+AT_7.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 37.65
+AT_7.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 37.35
+AT_7.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 36.67
+checking for ../data/pgd_AT_8.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 39.64.
+loading from ../data/pgd_AT_8.0_resnet18_eval_on_10.0..
+AT_8.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 41.99
+AT_8.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 40.31
+AT_8.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 40.46
+AT_8.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 40.15
+AT_8.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 39.66
+checking for ../data/pgd_AT_9.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 41.57.
+loading from ../data/pgd_AT_9.0_resnet18_eval_on_10.0..
+AT_9.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 43.85
+AT_9.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 41.95
+AT_9.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 42.27
+AT_9.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 41.97
+AT_9.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 41.44
+checking for ../data/pgd_AT_10.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 43.21.
+loading from ../data/pgd_AT_10.0_resnet18_eval_on_10.0..
+AT_10.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 45.01
+AT_10.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 43.43
+AT_10.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 43.97
+AT_10.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 43.66
+AT_10.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 43.17
+checking for ../data/pgd_AT_11.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 45.14.
+loading from ../data/pgd_AT_11.0_resnet18_eval_on_10.0..
+AT_11.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 46.9
+AT_11.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 45.48
+AT_11.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 45.71
+AT_11.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 45.6
+AT_11.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 45.19
+checking for ../data/pgd_AT_12.0_resnet18_eval_on_10.0..
+Robust_Pretrained models PGD20 accuracy is 45.67.
+loading from ../data/pgd_AT_12.0_resnet18_eval_on_10.0..
+AT_12.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 46.93
+AT_12.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 45.87
+AT_12.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 45.91
+AT_12.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 45.91
+AT_12.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 45.55

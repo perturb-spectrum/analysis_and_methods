@@ -1,0 +1,106 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+[Monday, 16 May 2022 15:17:38 PM] Epoch [1/100], Loss: 1.6003, Val accuracy: 45.27
+[Monday, 16 May 2022 15:32:43 PM] Epoch [2/100], Loss: 1.4213, Val accuracy: 48.68
+[Monday, 16 May 2022 15:47:43 PM] Epoch [3/100], Loss: 1.3131, Val accuracy: 59.18
+[Monday, 16 May 2022 16:02:43 PM] Epoch [4/100], Loss: 1.2518, Val accuracy: 65.92
+[Monday, 16 May 2022 16:17:44 PM] Epoch [5/100], Loss: 1.1305, Val accuracy: 67.1
+[Monday, 16 May 2022 16:32:45 PM] Epoch [6/100], Loss: 0.8709, Val accuracy: 71.32
+[Monday, 16 May 2022 16:47:46 PM] Epoch [7/100], Loss: 1.1694, Val accuracy: 72.61
+[Monday, 16 May 2022 17:02:47 PM] Epoch [8/100], Loss: 0.8447, Val accuracy: 75.98
+[Monday, 16 May 2022 17:17:48 PM] Epoch [9/100], Loss: 0.9867, Val accuracy: 78.5
+[Monday, 16 May 2022 17:38:19 PM] Epoch [10/100], Loss: 0.7812, Val accuracy: 77.58, PGD Adv accuracy: 62.98
+[Monday, 16 May 2022 17:53:17 PM] Epoch [11/100], Loss: 0.9993, Val accuracy: 80.01
+[Monday, 16 May 2022 18:08:18 PM] Epoch [12/100], Loss: 0.832, Val accuracy: 81.78
+[Monday, 16 May 2022 18:23:18 PM] Epoch [13/100], Loss: 0.8292, Val accuracy: 81.18
+[Monday, 16 May 2022 18:38:18 PM] Epoch [14/100], Loss: 0.9572, Val accuracy: 83.2
+[Monday, 16 May 2022 18:53:19 PM] Epoch [15/100], Loss: 0.7223, Val accuracy: 81.52
+[Monday, 16 May 2022 19:08:19 PM] Epoch [16/100], Loss: 0.7057, Val accuracy: 83.38
+[Monday, 16 May 2022 19:23:19 PM] Epoch [17/100], Loss: 0.8239, Val accuracy: 83.36
+[Monday, 16 May 2022 19:38:20 PM] Epoch [18/100], Loss: 0.6936, Val accuracy: 83.33
+[Monday, 16 May 2022 19:53:20 PM] Epoch [19/100], Loss: 0.5959, Val accuracy: 83.28
+[Monday, 16 May 2022 20:13:51 PM] Epoch [20/100], Loss: 0.7349, Val accuracy: 84.63, PGD Adv accuracy: 70.92
+[Monday, 16 May 2022 20:28:49 PM] Epoch [21/100], Loss: 0.7061, Val accuracy: 85.59
+[Monday, 16 May 2022 20:43:47 PM] Epoch [22/100], Loss: 0.5889, Val accuracy: 85.05
+[Monday, 16 May 2022 20:58:45 PM] Epoch [23/100], Loss: 0.8357, Val accuracy: 86.27
+[Monday, 16 May 2022 21:13:43 PM] Epoch [24/100], Loss: 0.7332, Val accuracy: 86.82
+[Monday, 16 May 2022 21:28:41 PM] Epoch [25/100], Loss: 0.6072, Val accuracy: 85.89
+[Monday, 16 May 2022 21:43:39 PM] Epoch [26/100], Loss: 0.7405, Val accuracy: 86.17
+[Monday, 16 May 2022 21:58:37 PM] Epoch [27/100], Loss: 0.5239, Val accuracy: 86.65
+[Monday, 16 May 2022 22:13:38 PM] Epoch [28/100], Loss: 0.4741, Val accuracy: 87.73
+[Monday, 16 May 2022 22:28:38 PM] Epoch [29/100], Loss: 0.6406, Val accuracy: 87.32
+[Monday, 16 May 2022 22:49:08 PM] Epoch [30/100], Loss: 0.6497, Val accuracy: 87.22, PGD Adv accuracy: 74.03
+[Monday, 16 May 2022 23:04:09 PM] Epoch [31/100], Loss: 0.5311, Val accuracy: 87.92
+[Monday, 16 May 2022 23:19:10 PM] Epoch [32/100], Loss: 0.7861, Val accuracy: 88.1
+[Monday, 16 May 2022 23:34:10 PM] Epoch [33/100], Loss: 0.5445, Val accuracy: 88.15
+[Monday, 16 May 2022 23:49:11 PM] Epoch [34/100], Loss: 0.5236, Val accuracy: 88.25
+[Tuesday, 17 May 2022 00:04:11 AM] Epoch [35/100], Loss: 0.5473, Val accuracy: 88.39
+[Tuesday, 17 May 2022 00:19:12 AM] Epoch [36/100], Loss: 0.5881, Val accuracy: 88.32
+[Tuesday, 17 May 2022 00:34:12 AM] Epoch [37/100], Loss: 0.6411, Val accuracy: 88.68
+[Tuesday, 17 May 2022 00:49:13 AM] Epoch [38/100], Loss: 0.3933, Val accuracy: 88.46
+[Tuesday, 17 May 2022 01:04:13 AM] Epoch [39/100], Loss: 0.6589, Val accuracy: 88.18
+[Tuesday, 17 May 2022 01:24:44 AM] Epoch [40/100], Loss: 0.543, Val accuracy: 88.83, PGD Adv accuracy: 75.5
+[Tuesday, 17 May 2022 01:39:43 AM] Epoch [41/100], Loss: 0.552, Val accuracy: 88.84
+[Tuesday, 17 May 2022 01:54:43 AM] Epoch [42/100], Loss: 0.3809, Val accuracy: 89.23
+[Tuesday, 17 May 2022 02:09:43 AM] Epoch [43/100], Loss: 0.5665, Val accuracy: 87.55
+[Tuesday, 17 May 2022 02:24:43 AM] Epoch [44/100], Loss: 0.4497, Val accuracy: 89.89
+[Tuesday, 17 May 2022 02:39:42 AM] Epoch [45/100], Loss: 0.3892, Val accuracy: 89.55
+[Tuesday, 17 May 2022 02:54:42 AM] Epoch [46/100], Loss: 0.5674, Val accuracy: 89.56
+[Tuesday, 17 May 2022 03:09:42 AM] Epoch [47/100], Loss: 0.4601, Val accuracy: 89.39
+[Tuesday, 17 May 2022 03:24:42 AM] Epoch [48/100], Loss: 0.5021, Val accuracy: 89.18
+[Tuesday, 17 May 2022 03:39:43 AM] Epoch [49/100], Loss: 0.5341, Val accuracy: 89.82
+[Tuesday, 17 May 2022 04:00:18 AM] Epoch [50/100], Loss: 0.545, Val accuracy: 89.44, PGD Adv accuracy: 76.38
+[Tuesday, 17 May 2022 04:23:55 AM] Epoch [51/100], Loss: 0.5922, Val accuracy: 89.57
+[Tuesday, 17 May 2022 04:51:09 AM] Epoch [52/100], Loss: 0.4957, Val accuracy: 90.04
+[Tuesday, 17 May 2022 05:06:10 AM] Epoch [53/100], Loss: 0.395, Val accuracy: 90.37
+[Tuesday, 17 May 2022 05:21:12 AM] Epoch [54/100], Loss: 0.4748, Val accuracy: 89.32
+[Tuesday, 17 May 2022 05:36:14 AM] Epoch [55/100], Loss: 0.7051, Val accuracy: 90.41
+[Tuesday, 17 May 2022 05:51:15 AM] Epoch [56/100], Loss: 0.4914, Val accuracy: 90.1
+[Tuesday, 17 May 2022 06:06:15 AM] Epoch [57/100], Loss: 0.5902, Val accuracy: 90.44
+[Tuesday, 17 May 2022 06:21:16 AM] Epoch [58/100], Loss: 0.3241, Val accuracy: 88.78
+[Tuesday, 17 May 2022 06:36:17 AM] Epoch [59/100], Loss: 0.4729, Val accuracy: 90.37
+[Tuesday, 17 May 2022 06:56:47 AM] Epoch [60/100], Loss: 0.511, Val accuracy: 89.32, PGD Adv accuracy: 75.23
+[Tuesday, 17 May 2022 07:11:47 AM] Epoch [61/100], Loss: 0.4612, Val accuracy: 90.48
+[Tuesday, 17 May 2022 07:26:46 AM] Epoch [62/100], Loss: 0.5381, Val accuracy: 89.51
+[Tuesday, 17 May 2022 07:41:46 AM] Epoch [63/100], Loss: 0.47, Val accuracy: 89.97
+[Tuesday, 17 May 2022 07:56:45 AM] Epoch [64/100], Loss: 0.4331, Val accuracy: 90.5
+[Tuesday, 17 May 2022 08:11:45 AM] Epoch [65/100], Loss: 0.5397, Val accuracy: 90.35
+[Tuesday, 17 May 2022 08:26:44 AM] Epoch [66/100], Loss: 0.3164, Val accuracy: 89.68
+[Tuesday, 17 May 2022 08:41:44 AM] Epoch [67/100], Loss: 0.4378, Val accuracy: 89.55
+[Tuesday, 17 May 2022 08:56:43 AM] Epoch [68/100], Loss: 0.3179, Val accuracy: 89.76
+[Tuesday, 17 May 2022 09:11:43 AM] Epoch [69/100], Loss: 0.4435, Val accuracy: 90.73
+[Tuesday, 17 May 2022 09:32:12 AM] Epoch [70/100], Loss: 0.4008, Val accuracy: 89.8, PGD Adv accuracy: 75.22
+[Tuesday, 17 May 2022 09:47:11 AM] Epoch [71/100], Loss: 0.3907, Val accuracy: 90.1
+[Tuesday, 17 May 2022 10:02:10 AM] Epoch [72/100], Loss: 0.4456, Val accuracy: 90.97
+[Tuesday, 17 May 2022 10:17:09 AM] Epoch [73/100], Loss: 0.3293, Val accuracy: 89.49
+[Tuesday, 17 May 2022 10:32:09 AM] Epoch [74/100], Loss: 0.4244, Val accuracy: 90.77
+[Tuesday, 17 May 2022 10:47:08 AM] Epoch [75/100], Loss: 0.373, Val accuracy: 89.39
+[Tuesday, 17 May 2022 11:07:36 AM] Epoch [76/100], Loss: 0.2234, Val accuracy: 93.3, PGD Adv accuracy: 81.71
+[Tuesday, 17 May 2022 11:22:33 AM] Epoch [77/100], Loss: 0.1312, Val accuracy: 93.36
+[Tuesday, 17 May 2022 11:37:31 AM] Epoch [78/100], Loss: 0.1684, Val accuracy: 93.45
+[Tuesday, 17 May 2022 11:52:29 AM] Epoch [79/100], Loss: 0.154, Val accuracy: 93.33
+[Tuesday, 17 May 2022 12:12:58 PM] Epoch [80/100], Loss: 0.1694, Val accuracy: 93.41, PGD Adv accuracy: 81.79
+[Tuesday, 17 May 2022 12:27:57 PM] Epoch [81/100], Loss: 0.0569, Val accuracy: 93.36
+[Tuesday, 17 May 2022 12:42:56 PM] Epoch [82/100], Loss: 0.1444, Val accuracy: 93.47
+[Tuesday, 17 May 2022 12:57:55 PM] Epoch [83/100], Loss: 0.0915, Val accuracy: 93.37
+[Tuesday, 17 May 2022 13:12:54 PM] Epoch [84/100], Loss: 0.084, Val accuracy: 93.33
+[Tuesday, 17 May 2022 13:27:54 PM] Epoch [85/100], Loss: 0.0356, Val accuracy: 93.32
+[Tuesday, 17 May 2022 13:42:54 PM] Epoch [86/100], Loss: 0.0834, Val accuracy: 93.52
+[Tuesday, 17 May 2022 13:57:54 PM] Epoch [87/100], Loss: 0.1343, Val accuracy: 93.66
+[Tuesday, 17 May 2022 14:12:54 PM] Epoch [88/100], Loss: 0.0661, Val accuracy: 93.2
+[Tuesday, 17 May 2022 14:27:56 PM] Epoch [89/100], Loss: 0.1172, Val accuracy: 93.06
+[Tuesday, 17 May 2022 14:58:58 PM] Epoch [90/100], Loss: 0.1, Val accuracy: 93.27, PGD Adv accuracy: 80.21
+[Tuesday, 17 May 2022 15:34:36 PM] Epoch [91/100], Loss: 0.03, Val accuracy: 93.26
+[Tuesday, 17 May 2022 16:19:35 PM] Epoch [92/100], Loss: 0.0286, Val accuracy: 93.35
+[Tuesday, 17 May 2022 16:40:28 PM] Epoch [93/100], Loss: 0.0267, Val accuracy: 93.33
+[Tuesday, 17 May 2022 16:55:30 PM] Epoch [94/100], Loss: 0.015, Val accuracy: 93.34
+[Tuesday, 17 May 2022 17:10:31 PM] Epoch [95/100], Loss: 0.025, Val accuracy: 93.45
+[Tuesday, 17 May 2022 17:25:33 PM] Epoch [96/100], Loss: 0.0309, Val accuracy: 93.44
+[Tuesday, 17 May 2022 17:40:34 PM] Epoch [97/100], Loss: 0.0215, Val accuracy: 93.33
+[Tuesday, 17 May 2022 17:55:35 PM] Epoch [98/100], Loss: 0.0226, Val accuracy: 93.56
+[Tuesday, 17 May 2022 18:10:36 PM] Epoch [99/100], Loss: 0.0188, Val accuracy: 93.49
+[Tuesday, 17 May 2022 18:31:06 PM] Epoch [100/100], Loss: 0.0167, Val accuracy: 93.35, PGD Adv accuracy: 80.23

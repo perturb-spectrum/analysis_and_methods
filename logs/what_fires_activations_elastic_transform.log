@@ -1,0 +1,17 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+==>For corruption elastic_transform from test CIFAR-10-C dataset,
+loaded model at ./saved_state_dicts/PGDAT_resnet18_1.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_3.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_5.0/ep_76.pth
+loaded model at ./saved_state_dicts/ST_resnet18/ep_19.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_2.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_4.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_6.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_8.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_10.0/ep_76.pth
+loaded model at ./saved_state_dicts/PGDAT_resnet18_12.0/ep_76.pth

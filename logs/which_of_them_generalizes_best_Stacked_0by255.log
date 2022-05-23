@@ -1,0 +1,21 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+==>For PGD attack test of strength 0.0/255 on both train and test CIFAR dataset,
+Model StackedTrained with strength 0.0/255 has clean accs: TRAIN 89.092
+Model StackedTrained with strength 0.0/255 has clean accs: TEST 85.58
+Model StackedTrained with strength 2.0/255 has clean accs: TRAIN 99.96
+Model StackedTrained with strength 2.0/255 has clean accs: TEST 91.52
+Model StackedTrained with strength 4.0/255 has clean accs: TRAIN 99.966
+Model StackedTrained with strength 4.0/255 has clean accs: TEST 89.26
+Model StackedTrained with strength 6.0/255 has clean accs: TRAIN 99.912
+Model StackedTrained with strength 6.0/255 has clean accs: TEST 87.67
+Model StackedTrained with strength 8.0/255 has clean accs: TRAIN 99.812
+Model StackedTrained with strength 8.0/255 has clean accs: TEST 85.01
+Model StackedTrained with strength 10.0/255 has clean accs: TRAIN 99.574
+Model StackedTrained with strength 10.0/255 has clean accs: TEST 83.18
+Model StackedTrained with strength 12.0/255 has clean accs: TRAIN 99.342
+Model StackedTrained with strength 12.0/255 has clean accs: TEST 81.72

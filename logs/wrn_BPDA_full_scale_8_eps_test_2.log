@@ -1,0 +1,34 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+AT_0.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 2.48
+AT_0.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 2.11
+AT_0.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 2.38
+AT_0.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 2.41
+AT_2.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 81.62
+AT_2.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 81.85
+AT_2.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 81.74
+AT_2.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 81.74
+AT_4.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 82.76
+AT_4.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 82.62
+AT_4.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 82.74
+AT_4.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 82.78
+AT_6.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 81.62
+AT_6.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 81.47
+AT_6.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 81.57
+AT_6.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 81.49
+AT_8.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 79.13
+AT_8.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 78.93
+AT_8.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 79.02
+AT_8.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 79.11
+AT_10.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 75.98
+AT_10.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 76.11
+AT_10.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 76.06
+AT_10.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 76.06
+AT_12.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 70.9
+AT_12.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 70.98
+AT_12.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 70.5
+AT_12.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 70.9

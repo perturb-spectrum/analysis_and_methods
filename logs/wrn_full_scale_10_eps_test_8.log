@@ -1,0 +1,48 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+checking for ../data/pgd_AT_0.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_0.0_wrn_eval_on_8.0..
+AT_0.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 0.0
+AT_0.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 0.0
+AT_0.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 0.0
+AT_0.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 0.0
+checking for ../data/pgd_AT_2.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_2.0_wrn_eval_on_8.0..
+AT_2.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 21.88
+AT_2.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 22.57
+AT_2.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 22.13
+AT_2.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 22.02
+checking for ../data/pgd_AT_4.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_4.0_wrn_eval_on_8.0..
+AT_4.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 41.14
+AT_4.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 41.56
+AT_4.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 41.37
+AT_4.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 41.2
+checking for ../data/pgd_AT_6.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_6.0_wrn_eval_on_8.0..
+AT_6.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 49.77
+AT_6.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 49.84
+AT_6.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 50.0
+AT_6.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 49.8
+checking for ../data/pgd_AT_8.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_8.0_wrn_eval_on_8.0..
+AT_8.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 53.71
+AT_8.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 53.94
+AT_8.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 53.93
+AT_8.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 53.72
+checking for ../data/pgd_AT_10.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_10.0_wrn_eval_on_8.0..
+AT_10.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 55.65
+AT_10.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 55.58
+AT_10.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 55.56
+AT_10.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 55.6
+checking for ../data/pgd_AT_12.0_wrn_eval_on_8.0..
+loading from ../data/pgd_AT_12.0_wrn_eval_on_8.0..
+AT_12.0_wrn_eval_on_8.0, feat_idx 0, BPDA accuracy 54.39
+AT_12.0_wrn_eval_on_8.0, feat_idx 1, BPDA accuracy 54.45
+AT_12.0_wrn_eval_on_8.0, feat_idx 2, BPDA accuracy 54.54
+AT_12.0_wrn_eval_on_8.0, feat_idx 3, BPDA accuracy 54.55

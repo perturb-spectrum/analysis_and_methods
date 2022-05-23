@@ -1,0 +1,97 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+checking for ../data/pgd_AT_0.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_0.0_resnet18_eval_on_10.0..
+AT_0.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 0.31
+AT_0.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 0.0
+checking for ../data/pgd_AT_1.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_1.0_resnet18_eval_on_10.0..
+AT_1.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 10.48
+AT_1.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 3.01
+AT_1.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 2.84
+AT_1.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 2.6
+AT_1.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 2.68
+checking for ../data/pgd_AT_2.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_2.0_resnet18_eval_on_10.0..
+AT_2.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 21.49
+AT_2.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 10.57
+AT_2.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 10.62
+AT_2.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 9.6
+AT_2.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 9.74
+checking for ../data/pgd_AT_3.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_3.0_resnet18_eval_on_10.0..
+AT_3.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 30.52
+AT_3.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 20.21
+AT_3.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 19.09
+AT_3.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 18.32
+AT_3.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 17.81
+checking for ../data/pgd_AT_4.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_4.0_resnet18_eval_on_10.0..
+AT_4.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 35.3
+AT_4.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 27.04
+AT_4.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 26.06
+AT_4.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 25.09
+AT_4.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 24.47
+checking for ../data/pgd_AT_5.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_5.0_resnet18_eval_on_10.0..
+AT_5.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 38.55
+AT_5.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 32.16
+AT_5.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 31.75
+AT_5.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 30.91
+AT_5.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 29.7
+checking for ../data/pgd_AT_6.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_6.0_resnet18_eval_on_10.0..
+AT_6.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 41.78
+AT_6.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 35.77
+AT_6.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 35.77
+AT_6.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 34.57
+AT_6.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 33.59
+checking for ../data/pgd_AT_7.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_7.0_resnet18_eval_on_10.0..
+AT_7.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 43.52
+AT_7.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 38.3
+AT_7.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 38.7
+AT_7.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 38.03
+AT_7.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 36.7
+checking for ../data/pgd_AT_8.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_8.0_resnet18_eval_on_10.0..
+AT_8.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 44.5
+AT_8.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 41.2
+AT_8.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 41.6
+AT_8.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 41.04
+AT_8.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 39.61
+checking for ../data/pgd_AT_9.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_9.0_resnet18_eval_on_10.0..
+AT_9.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 45.62
+AT_9.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 43.17
+AT_9.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 43.13
+AT_9.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 42.55
+AT_9.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 41.6
+checking for ../data/pgd_AT_10.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_10.0_resnet18_eval_on_10.0..
+AT_10.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 44.61
+AT_10.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 43.86
+AT_10.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 44.87
+AT_10.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 44.18
+AT_10.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 43.17
+checking for ../data/pgd_AT_11.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_11.0_resnet18_eval_on_10.0..
+AT_11.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 45.06
+AT_11.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 45.88
+AT_11.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 46.32
+AT_11.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 45.98
+AT_11.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 44.9
+checking for ../data/pgd_AT_12.0_resnet18_eval_on_10.0..
+loading from ../data/pgd_AT_12.0_resnet18_eval_on_10.0..
+AT_12.0_resnet18_eval_on_10.0, feat_idx 0, K 64, BPDA accuracy 45.73
+AT_12.0_resnet18_eval_on_10.0, feat_idx 1, K 64, BPDA accuracy 46.22
+AT_12.0_resnet18_eval_on_10.0, feat_idx 2, K 128, BPDA accuracy 46.69
+AT_12.0_resnet18_eval_on_10.0, feat_idx 3, K 256, BPDA accuracy 46.49
+AT_12.0_resnet18_eval_on_10.0, feat_idx 4, K 512, BPDA accuracy 45.56

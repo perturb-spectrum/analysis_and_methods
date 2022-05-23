@@ -1,0 +1,154 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+device cuda
+Corruptions ['gaussian_noise', 'shot_noise', 'impulse_noise', 'defocus_blur', 'glass_blur', 'motion_blur', 'zoom_blur', 'snow', 'frost', 'fog', 'brightness', 'contrast', 'elastic_transform', 'pixelate', 'jpeg_compression', 'speckle_noise', 'gaussian_blur', 'spatter', 'saturate']
+Files already downloaded and verified
+
+
+wrn non-robust model, gaussian_noise, Test Loss 0.014, Test Error 71.582
+wrn non-robust model, shot_noise, Test Loss 0.011, Test Error 61.892
+wrn non-robust model, impulse_noise, Test Loss 0.007, Test Error 51.490
+wrn non-robust model, defocus_blur, Test Loss 0.004, Test Error 32.742
+wrn non-robust model, glass_blur, Test Loss 0.011, Test Error 65.886
+wrn non-robust model, motion_blur, Test Loss 0.005, Test Error 40.946
+wrn non-robust model, zoom_blur, Test Loss 0.006, Test Error 41.882
+wrn non-robust model, snow, Test Loss 0.005, Test Error 37.566
+wrn non-robust model, frost, Test Loss 0.006, Test Error 43.640
+wrn non-robust model, fog, Test Loss 0.003, Test Error 27.644
+wrn non-robust model, brightness, Test Loss 0.002, Test Error 16.944
+wrn non-robust model, contrast, Test Loss 0.006, Test Error 44.658
+wrn non-robust model, elastic_transform, Test Loss 0.004, Test Error 32.146
+wrn non-robust model, pixelate, Test Loss 0.005, Test Error 38.756
+wrn non-robust model, jpeg_compression, Test Loss 0.004, Test Error 34.196
+wrn non-robust model, speckle_noise, Test Loss 0.011, Test Error 59.268
+wrn non-robust model, gaussian_blur, Test Loss 0.007, Test Error 44.216
+wrn non-robust model, spatter, Test Loss 0.003, Test Error 24.966
+wrn non-robust model, saturate, Test Loss 0.002, Test Error 18.526
+
+
+wrn Trained 2.0-robust model, gaussian_noise, Test Loss 0.002, Test Error 14.560
+wrn Trained 2.0-robust model, shot_noise, Test Loss 0.002, Test Error 12.574
+wrn Trained 2.0-robust model, impulse_noise, Test Loss 0.004, Test Error 25.482
+wrn Trained 2.0-robust model, defocus_blur, Test Loss 0.002, Test Error 13.270
+wrn Trained 2.0-robust model, glass_blur, Test Loss 0.003, Test Error 20.944
+wrn Trained 2.0-robust model, motion_blur, Test Loss 0.002, Test Error 18.166
+wrn Trained 2.0-robust model, zoom_blur, Test Loss 0.002, Test Error 14.396
+wrn Trained 2.0-robust model, snow, Test Loss 0.002, Test Error 12.478
+wrn Trained 2.0-robust model, frost, Test Loss 0.002, Test Error 12.662
+wrn Trained 2.0-robust model, fog, Test Loss 0.003, Test Error 25.648
+wrn Trained 2.0-robust model, brightness, Test Loss 0.001, Test Error 8.160
+wrn Trained 2.0-robust model, contrast, Test Loss 0.006, Test Error 41.418
+wrn Trained 2.0-robust model, elastic_transform, Test Loss 0.002, Test Error 13.484
+wrn Trained 2.0-robust model, pixelate, Test Loss 0.001, Test Error 9.974
+wrn Trained 2.0-robust model, jpeg_compression, Test Loss 0.001, Test Error 9.530
+wrn Trained 2.0-robust model, speckle_noise, Test Loss 0.002, Test Error 13.088
+wrn Trained 2.0-robust model, gaussian_blur, Test Loss 0.002, Test Error 16.548
+wrn Trained 2.0-robust model, spatter, Test Loss 0.001, Test Error 11.742
+wrn Trained 2.0-robust model, saturate, Test Loss 0.001, Test Error 9.956
+
+
+wrn Trained 4.0-robust model, gaussian_noise, Test Loss 0.002, Test Error 13.736
+wrn Trained 4.0-robust model, shot_noise, Test Loss 0.001, Test Error 12.706
+wrn Trained 4.0-robust model, impulse_noise, Test Loss 0.003, Test Error 21.656
+wrn Trained 4.0-robust model, defocus_blur, Test Loss 0.002, Test Error 14.896
+wrn Trained 4.0-robust model, glass_blur, Test Loss 0.002, Test Error 18.356
+wrn Trained 4.0-robust model, motion_blur, Test Loss 0.002, Test Error 19.242
+wrn Trained 4.0-robust model, zoom_blur, Test Loss 0.002, Test Error 16.310
+wrn Trained 4.0-robust model, snow, Test Loss 0.002, Test Error 13.814
+wrn Trained 4.0-robust model, frost, Test Loss 0.002, Test Error 15.212
+wrn Trained 4.0-robust model, fog, Test Loss 0.004, Test Error 32.016
+wrn Trained 4.0-robust model, brightness, Test Loss 0.001, Test Error 10.620
+wrn Trained 4.0-robust model, contrast, Test Loss 0.007, Test Error 49.580
+wrn Trained 4.0-robust model, elastic_transform, Test Loss 0.002, Test Error 15.552
+wrn Trained 4.0-robust model, pixelate, Test Loss 0.001, Test Error 11.390
+wrn Trained 4.0-robust model, jpeg_compression, Test Loss 0.001, Test Error 11.460
+wrn Trained 4.0-robust model, speckle_noise, Test Loss 0.002, Test Error 13.248
+wrn Trained 4.0-robust model, gaussian_blur, Test Loss 0.002, Test Error 17.598
+wrn Trained 4.0-robust model, spatter, Test Loss 0.002, Test Error 13.242
+wrn Trained 4.0-robust model, saturate, Test Loss 0.001, Test Error 12.036
+
+
+wrn Trained 6.0-robust model, gaussian_noise, Test Loss 0.002, Test Error 16.446
+wrn Trained 6.0-robust model, shot_noise, Test Loss 0.002, Test Error 15.204
+wrn Trained 6.0-robust model, impulse_noise, Test Loss 0.003, Test Error 22.852
+wrn Trained 6.0-robust model, defocus_blur, Test Loss 0.002, Test Error 16.998
+wrn Trained 6.0-robust model, glass_blur, Test Loss 0.002, Test Error 19.926
+wrn Trained 6.0-robust model, motion_blur, Test Loss 0.002, Test Error 21.268
+wrn Trained 6.0-robust model, zoom_blur, Test Loss 0.002, Test Error 17.962
+wrn Trained 6.0-robust model, snow, Test Loss 0.002, Test Error 16.894
+wrn Trained 6.0-robust model, frost, Test Loss 0.002, Test Error 19.860
+wrn Trained 6.0-robust model, fog, Test Loss 0.004, Test Error 37.208
+wrn Trained 6.0-robust model, brightness, Test Loss 0.002, Test Error 14.236
+wrn Trained 6.0-robust model, contrast, Test Loss 0.007, Test Error 54.638
+wrn Trained 6.0-robust model, elastic_transform, Test Loss 0.002, Test Error 17.992
+wrn Trained 6.0-robust model, pixelate, Test Loss 0.002, Test Error 14.010
+wrn Trained 6.0-robust model, jpeg_compression, Test Loss 0.002, Test Error 13.996
+wrn Trained 6.0-robust model, speckle_noise, Test Loss 0.002, Test Error 15.422
+wrn Trained 6.0-robust model, gaussian_blur, Test Loss 0.002, Test Error 19.200
+wrn Trained 6.0-robust model, spatter, Test Loss 0.002, Test Error 15.878
+wrn Trained 6.0-robust model, saturate, Test Loss 0.002, Test Error 14.928
+
+
+wrn Trained 8.0-robust model, gaussian_noise, Test Loss 0.002, Test Error 19.408
+wrn Trained 8.0-robust model, shot_noise, Test Loss 0.002, Test Error 18.290
+wrn Trained 8.0-robust model, impulse_noise, Test Loss 0.003, Test Error 24.630
+wrn Trained 8.0-robust model, defocus_blur, Test Loss 0.003, Test Error 19.856
+wrn Trained 8.0-robust model, glass_blur, Test Loss 0.003, Test Error 22.186
+wrn Trained 8.0-robust model, motion_blur, Test Loss 0.003, Test Error 24.072
+wrn Trained 8.0-robust model, zoom_blur, Test Loss 0.003, Test Error 21.000
+wrn Trained 8.0-robust model, snow, Test Loss 0.002, Test Error 20.020
+wrn Trained 8.0-robust model, frost, Test Loss 0.003, Test Error 24.096
+wrn Trained 8.0-robust model, fog, Test Loss 0.005, Test Error 40.928
+wrn Trained 8.0-robust model, brightness, Test Loss 0.002, Test Error 17.954
+wrn Trained 8.0-robust model, contrast, Test Loss 0.008, Test Error 58.046
+wrn Trained 8.0-robust model, elastic_transform, Test Loss 0.003, Test Error 21.138
+wrn Trained 8.0-robust model, pixelate, Test Loss 0.002, Test Error 16.938
+wrn Trained 8.0-robust model, jpeg_compression, Test Loss 0.002, Test Error 17.112
+wrn Trained 8.0-robust model, speckle_noise, Test Loss 0.002, Test Error 18.428
+wrn Trained 8.0-robust model, gaussian_blur, Test Loss 0.003, Test Error 22.092
+wrn Trained 8.0-robust model, spatter, Test Loss 0.002, Test Error 18.894
+wrn Trained 8.0-robust model, saturate, Test Loss 0.002, Test Error 17.984
+
+
+wrn Trained 10.0-robust model, gaussian_noise, Test Loss 0.003, Test Error 22.448
+wrn Trained 10.0-robust model, shot_noise, Test Loss 0.003, Test Error 21.598
+wrn Trained 10.0-robust model, impulse_noise, Test Loss 0.003, Test Error 25.722
+wrn Trained 10.0-robust model, defocus_blur, Test Loss 0.003, Test Error 23.074
+wrn Trained 10.0-robust model, glass_blur, Test Loss 0.003, Test Error 25.026
+wrn Trained 10.0-robust model, motion_blur, Test Loss 0.003, Test Error 26.906
+wrn Trained 10.0-robust model, zoom_blur, Test Loss 0.003, Test Error 24.102
+wrn Trained 10.0-robust model, snow, Test Loss 0.003, Test Error 23.438
+wrn Trained 10.0-robust model, frost, Test Loss 0.004, Test Error 29.740
+wrn Trained 10.0-robust model, fog, Test Loss 0.005, Test Error 43.594
+wrn Trained 10.0-robust model, brightness, Test Loss 0.003, Test Error 21.766
+wrn Trained 10.0-robust model, contrast, Test Loss 0.008, Test Error 59.580
+wrn Trained 10.0-robust model, elastic_transform, Test Loss 0.003, Test Error 24.480
+wrn Trained 10.0-robust model, pixelate, Test Loss 0.003, Test Error 20.502
+wrn Trained 10.0-robust model, jpeg_compression, Test Loss 0.003, Test Error 20.558
+wrn Trained 10.0-robust model, speckle_noise, Test Loss 0.003, Test Error 21.726
+wrn Trained 10.0-robust model, gaussian_blur, Test Loss 0.003, Test Error 25.116
+wrn Trained 10.0-robust model, spatter, Test Loss 0.003, Test Error 22.210
+wrn Trained 10.0-robust model, saturate, Test Loss 0.003, Test Error 21.346
+
+
+wrn Trained 12.0-robust model, gaussian_noise, Test Loss 0.004, Test Error 27.498
+wrn Trained 12.0-robust model, shot_noise, Test Loss 0.003, Test Error 26.674
+wrn Trained 12.0-robust model, impulse_noise, Test Loss 0.004, Test Error 28.712
+wrn Trained 12.0-robust model, defocus_blur, Test Loss 0.004, Test Error 28.512
+wrn Trained 12.0-robust model, glass_blur, Test Loss 0.004, Test Error 30.200
+wrn Trained 12.0-robust model, motion_blur, Test Loss 0.004, Test Error 31.578
+wrn Trained 12.0-robust model, zoom_blur, Test Loss 0.004, Test Error 29.442
+wrn Trained 12.0-robust model, snow, Test Loss 0.004, Test Error 29.094
+wrn Trained 12.0-robust model, frost, Test Loss 0.004, Test Error 36.282
+wrn Trained 12.0-robust model, fog, Test Loss 0.006, Test Error 47.502
+wrn Trained 12.0-robust model, brightness, Test Loss 0.003, Test Error 28.290
+wrn Trained 12.0-robust model, contrast, Test Loss 0.008, Test Error 61.814
+wrn Trained 12.0-robust model, elastic_transform, Test Loss 0.004, Test Error 29.818
+wrn Trained 12.0-robust model, pixelate, Test Loss 0.003, Test Error 26.156
+wrn Trained 12.0-robust model, jpeg_compression, Test Loss 0.003, Test Error 26.100
+wrn Trained 12.0-robust model, speckle_noise, Test Loss 0.004, Test Error 26.878
+wrn Trained 12.0-robust model, gaussian_blur, Test Loss 0.004, Test Error 30.300
+wrn Trained 12.0-robust model, spatter, Test Loss 0.003, Test Error 27.364
+wrn Trained 12.0-robust model, saturate, Test Loss 0.003, Test Error 26.722

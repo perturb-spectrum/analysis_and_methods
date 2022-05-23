@@ -1,0 +1,33 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+==>For PGD attack test of strength 0.0/255 on both train and test CIFAR dataset,
+Model Trained with strength 0.0/255 has clean accs: TRAIN 89.092
+Model Trained with strength 0.0/255 has clean accs: TEST 85.58
+Model Trained with strength 1.0/255 has clean accs: TRAIN 99.842
+Model Trained with strength 1.0/255 has clean accs: TEST 92.25
+Model Trained with strength 2.0/255 has clean accs: TRAIN 99.822
+Model Trained with strength 2.0/255 has clean accs: TEST 91.79
+Model Trained with strength 3.0/255 has clean accs: TRAIN 99.63
+Model Trained with strength 3.0/255 has clean accs: TEST 90.16
+Model Trained with strength 4.0/255 has clean accs: TRAIN 99.342
+Model Trained with strength 4.0/255 has clean accs: TEST 89.09
+Model Trained with strength 5.0/255 has clean accs: TRAIN 98.78
+Model Trained with strength 5.0/255 has clean accs: TEST 87.95
+Model Trained with strength 6.0/255 has clean accs: TRAIN 97.626
+Model Trained with strength 6.0/255 has clean accs: TEST 86.35
+Model Trained with strength 7.0/255 has clean accs: TRAIN 96.264
+Model Trained with strength 7.0/255 has clean accs: TEST 84.66
+Model Trained with strength 8.0/255 has clean accs: TRAIN 94.53
+Model Trained with strength 8.0/255 has clean accs: TEST 83.63
+Model Trained with strength 9.0/255 has clean accs: TRAIN 92.408
+Model Trained with strength 9.0/255 has clean accs: TEST 82.23
+Model Trained with strength 10.0/255 has clean accs: TRAIN 89.794
+Model Trained with strength 10.0/255 has clean accs: TEST 80.32
+Model Trained with strength 11.0/255 has clean accs: TRAIN 87.076
+Model Trained with strength 11.0/255 has clean accs: TEST 78.33
+Model Trained with strength 12.0/255 has clean accs: TRAIN 84.072
+Model Trained with strength 12.0/255 has clean accs: TEST 76.5

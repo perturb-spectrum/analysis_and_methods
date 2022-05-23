@@ -1,0 +1,9 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+init_conv: 
+non-robust 1
+robust 1
+
+layer[2].block[3]: 

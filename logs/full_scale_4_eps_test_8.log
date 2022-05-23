@@ -1,0 +1,97 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+checking for ../data/pgd_AT_0.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_0.0_resnet18_eval_on_8.0..
+AT_0.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 1.66
+AT_0.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 0.0
+AT_0.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 0.0
+checking for ../data/pgd_AT_1.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_1.0_resnet18_eval_on_8.0..
+AT_1.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 21.42
+AT_1.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 9.06
+AT_1.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 8.45
+AT_1.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 7.88
+AT_1.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 7.72
+checking for ../data/pgd_AT_2.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_2.0_resnet18_eval_on_8.0..
+AT_2.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 34.27
+AT_2.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 20.99
+AT_2.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 20.75
+AT_2.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 19.67
+AT_2.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 19.39
+checking for ../data/pgd_AT_3.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_3.0_resnet18_eval_on_8.0..
+AT_3.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 42.97
+AT_3.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 32.37
+AT_3.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 30.85
+AT_3.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 29.92
+AT_3.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 29.29
+checking for ../data/pgd_AT_4.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_4.0_resnet18_eval_on_8.0..
+AT_4.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 46.42
+AT_4.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 39.17
+AT_4.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 38.2
+AT_4.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 37.09
+AT_4.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 36.17
+checking for ../data/pgd_AT_5.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_5.0_resnet18_eval_on_8.0..
+AT_5.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 48.64
+AT_5.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 43.28
+AT_5.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 42.8
+AT_5.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 41.89
+AT_5.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 41.07
+checking for ../data/pgd_AT_6.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_6.0_resnet18_eval_on_8.0..
+AT_6.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 50.59
+AT_6.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 45.92
+AT_6.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 46.39
+AT_6.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 45.56
+AT_6.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 44.3
+checking for ../data/pgd_AT_7.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_7.0_resnet18_eval_on_8.0..
+AT_7.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 51.58
+AT_7.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 48.18
+AT_7.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 48.31
+AT_7.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 47.98
+AT_7.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 46.73
+checking for ../data/pgd_AT_8.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_8.0_resnet18_eval_on_8.0..
+AT_8.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 52.05
+AT_8.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 50.11
+AT_8.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 50.16
+AT_8.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 50.65
+AT_8.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 49.01
+checking for ../data/pgd_AT_9.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_9.0_resnet18_eval_on_8.0..
+AT_9.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 51.81
+AT_9.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 51.32
+AT_9.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 51.45
+AT_9.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 50.74
+AT_9.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 50.12
+checking for ../data/pgd_AT_10.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_10.0_resnet18_eval_on_8.0..
+AT_10.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 49.95
+AT_10.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 51.47
+AT_10.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 51.94
+AT_10.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 51.99
+AT_10.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 51.12
+checking for ../data/pgd_AT_11.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_11.0_resnet18_eval_on_8.0..
+AT_11.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 49.89
+AT_11.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 52.45
+AT_11.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 52.66
+AT_11.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 52.81
+AT_11.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 52.24
+checking for ../data/pgd_AT_12.0_resnet18_eval_on_8.0..
+loading from ../data/pgd_AT_12.0_resnet18_eval_on_8.0..
+AT_12.0_resnet18_eval_on_8.0, feat_idx 0, K 64, BPDA accuracy 49.83
+AT_12.0_resnet18_eval_on_8.0, feat_idx 1, K 64, BPDA accuracy 52.38
+AT_12.0_resnet18_eval_on_8.0, feat_idx 2, K 128, BPDA accuracy 52.79
+AT_12.0_resnet18_eval_on_8.0, feat_idx 3, K 256, BPDA accuracy 53.23
+AT_12.0_resnet18_eval_on_8.0, feat_idx 4, K 512, BPDA accuracy 52.47

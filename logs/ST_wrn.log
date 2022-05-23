@@ -1,0 +1,26 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch [1/20], Loss: 1.3006, Val accuracy: 47.56
+Epoch [2/20], Loss: 1.008, Val accuracy: 61.68
+Epoch [3/20], Loss: 0.7231, Val accuracy: 68.67
+Epoch [4/20], Loss: 0.8261, Val accuracy: 73.67
+Epoch [5/20], Loss: 0.534, Val accuracy: 74.27
+Epoch [6/20], Loss: 0.4712, Val accuracy: 77.46
+Epoch [7/20], Loss: 0.5789, Val accuracy: 79.04
+Epoch [8/20], Loss: 0.4388, Val accuracy: 80.73
+Epoch [9/20], Loss: 0.5183, Val accuracy: 82.25
+Epoch [10/20], Loss: 0.4762, Val accuracy: 81.43
+Epoch [11/20], Loss: 0.3724, Val accuracy: 82.52
+Epoch [12/20], Loss: 0.4994, Val accuracy: 85.0
+Epoch [13/20], Loss: 0.4068, Val accuracy: 84.67
+Epoch [14/20], Loss: 0.383, Val accuracy: 83.83
+Epoch [15/20], Loss: 0.2737, Val accuracy: 84.31
+Epoch [16/20], Loss: 0.4299, Val accuracy: 83.78
+Epoch [17/20], Loss: 0.417, Val accuracy: 85.93
+Epoch [18/20], Loss: 0.3666, Val accuracy: 85.45
+Epoch [19/20], Loss: 0.3325, Val accuracy: 84.83
+Epoch [20/20], Loss: 0.3006, Val accuracy: 86.74

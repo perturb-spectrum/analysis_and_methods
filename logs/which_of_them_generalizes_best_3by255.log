@@ -1,0 +1,33 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+==>For PGD attack test of strength 3.0/255 on both train and test CIFAR dataset,
+Model Trained with strength 0.0/255 has PGD Adv accs: TRAIN 6.052
+Model Trained with strength 0.0/255 has PGD Adv accs: TEST 5.13
+Model Trained with strength 1.0/255 has PGD Adv accs: TRAIN 71.32
+Model Trained with strength 1.0/255 has PGD Adv accs: TEST 56.36
+Model Trained with strength 2.0/255 has PGD Adv accs: TRAIN 90.314
+Model Trained with strength 2.0/255 has PGD Adv accs: TEST 67.5
+Model Trained with strength 3.0/255 has PGD Adv accs: TRAIN 94.784
+Model Trained with strength 3.0/255 has PGD Adv accs: TEST 71.32
+Model Trained with strength 4.0/255 has PGD Adv accs: TRAIN 95.524
+Model Trained with strength 4.0/255 has PGD Adv accs: TEST 72.44
+Model Trained with strength 5.0/255 has PGD Adv accs: TRAIN 94.96
+Model Trained with strength 5.0/255 has PGD Adv accs: TEST 73.41
+Model Trained with strength 6.0/255 has PGD Adv accs: TRAIN 93.122
+Model Trained with strength 6.0/255 has PGD Adv accs: TEST 73.08
+Model Trained with strength 7.0/255 has PGD Adv accs: TRAIN 91.21
+Model Trained with strength 7.0/255 has PGD Adv accs: TEST 72.99
+Model Trained with strength 8.0/255 has PGD Adv accs: TRAIN 89.302
+Model Trained with strength 8.0/255 has PGD Adv accs: TEST 72.71
+Model Trained with strength 9.0/255 has PGD Adv accs: TRAIN 86.754
+Model Trained with strength 9.0/255 has PGD Adv accs: TEST 71.69
+Model Trained with strength 10.0/255 has PGD Adv accs: TRAIN 83.948
+Model Trained with strength 10.0/255 has PGD Adv accs: TEST 70.8
+Model Trained with strength 11.0/255 has PGD Adv accs: TRAIN 81.136
+Model Trained with strength 11.0/255 has PGD Adv accs: TEST 69.21
+Model Trained with strength 12.0/255 has PGD Adv accs: TRAIN 78.34
+Model Trained with strength 12.0/255 has PGD Adv accs: TEST 68.11

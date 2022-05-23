@@ -1,0 +1,41 @@
+PyTorch 1.10.2
+Torchvision 0.11.3
+Torchattacks 3.2.4
+Numpy 1.21.5
+Files already downloaded and verified
+Files already downloaded and verified
+Robust_Pretrained models clean accuracy is 85.45.
+AT_0.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 84.96
+AT_0.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 85.62
+AT_0.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 85.42
+AT_0.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 85.17
+Robust_Pretrained models clean accuracy is 93.41.
+AT_2.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 93.34
+AT_2.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 93.34
+AT_2.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 93.5
+AT_2.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 93.37
+Robust_Pretrained models clean accuracy is 91.13.
+AT_4.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 91.01
+AT_4.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 91.05
+AT_4.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 91.08
+AT_4.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 91.21
+Robust_Pretrained models clean accuracy is 88.66.
+AT_6.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 88.45
+AT_6.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 88.42
+AT_6.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 88.66
+AT_6.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 88.58
+Robust_Pretrained models clean accuracy is 85.23.
+AT_8.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 85.25
+AT_8.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 85.11
+AT_8.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 85.08
+AT_8.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 85.04
+Robust_Pretrained models clean accuracy is 81.51.
+AT_10.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 81.41
+AT_10.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 81.59
+AT_10.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 81.09
+AT_10.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 81.22
+Robust_Pretrained models clean accuracy is 75.83.
+AT_12.0_wrn_eval_on_0.0, feat_idx 0, clean accuracy 75.82
+AT_12.0_wrn_eval_on_0.0, feat_idx 1, clean accuracy 75.64
+AT_12.0_wrn_eval_on_0.0, feat_idx 2, clean accuracy 75.22
+AT_12.0_wrn_eval_on_0.0, feat_idx 3, clean accuracy 75.31

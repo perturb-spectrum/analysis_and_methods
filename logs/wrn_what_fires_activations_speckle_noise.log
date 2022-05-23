@@ -1,0 +1,14 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+==>For corruption speckle_noise from test CIFAR-10-C dataset,
+loaded model at ./saved_state_dicts/ST_wrn/ep_18.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_2.0/ep_80.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_4.0/ep_80.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_6.0/ep_80.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_8.0/ep_80.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_10.0/ep_80.pth
+loaded model at ./saved_state_dicts/PGDAT_wrn_12.0/ep_80.pth

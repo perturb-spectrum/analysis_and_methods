@@ -1,0 +1,55 @@
+PyTorch 1.8.1
+Torchvision 0.9.1
+Torchattacks 3.2.6
+Numpy 1.19.2
+Files already downloaded and verified
+Files already downloaded and verified
+checking for ../data/pgd_AT_0.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 2.43.
+loading from ../data/pgd_AT_0.0_wrn_eval_on_2.0..
+AT_0.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 2.35
+AT_0.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 2.29
+AT_0.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 2.4
+AT_0.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 2.47
+checking for ../data/pgd_AT_2.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 81.77.
+loading from ../data/pgd_AT_2.0_wrn_eval_on_2.0..
+AT_2.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 81.63
+AT_2.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 81.85
+AT_2.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 81.72
+AT_2.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 81.68
+checking for ../data/pgd_AT_4.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 82.67.
+loading from ../data/pgd_AT_4.0_wrn_eval_on_2.0..
+AT_4.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 82.76
+AT_4.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 82.6
+AT_4.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 82.76
+AT_4.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 82.74
+checking for ../data/pgd_AT_6.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 81.58.
+loading from ../data/pgd_AT_6.0_wrn_eval_on_2.0..
+AT_6.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 81.6
+AT_6.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 81.42
+AT_6.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 81.54
+AT_6.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 81.45
+checking for ../data/pgd_AT_8.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 79.19.
+loading from ../data/pgd_AT_8.0_wrn_eval_on_2.0..
+AT_8.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 79.06
+AT_8.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 78.92
+AT_8.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 79.01
+AT_8.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 79.0
+checking for ../data/pgd_AT_10.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 76.23.
+loading from ../data/pgd_AT_10.0_wrn_eval_on_2.0..
+AT_10.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 75.95
+AT_10.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 76.05
+AT_10.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 75.99
+AT_10.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 75.98
+checking for ../data/pgd_AT_12.0_wrn_eval_on_2.0..
+Robust_Pretrained models PGD20 accuracy is 71.2.
+loading from ../data/pgd_AT_12.0_wrn_eval_on_2.0..
+AT_12.0_wrn_eval_on_2.0, feat_idx 0, BPDA accuracy 70.9
+AT_12.0_wrn_eval_on_2.0, feat_idx 1, BPDA accuracy 70.92
+AT_12.0_wrn_eval_on_2.0, feat_idx 2, BPDA accuracy 70.46
+AT_12.0_wrn_eval_on_2.0, feat_idx 3, BPDA accuracy 70.78
