@@ -81,11 +81,11 @@ for model_name in ['resnet18', 'wrn']: # 'resnet18' or 'wrn'
                     if row!= none_row:
                         row_val = table[row, col] - table[none_row, col]
                         actual_val = table[row,col]
-                        if row_val > 0 and maximum_of_big_row-none_row_val != 0:
+                        if row_val > 0 and maximum_of_big_row!= 0 and none_row_val != 0:
                             fraction_of_max = max(7, int((actual_val-none_row_val)/(maximum_of_big_row-none_row_val) * 40))
                             new_row_string += f'& \\cellcolor{{blue!{fraction_of_max}}}{actual_val:.2f}'  
-                        elif row_val < 0 and maximum_of_big_row-none_row_val != 0:
-                            fraction_of_max = int(abs((actual_val-none_row_val)/(maximum_of_big_row-none_row_val) * 1))
+                        elif row_val < 0 and maximum_of_big_row!= 0 and none_row_val != 0:
+                            # fraction_of_max = int(abs((actual_val-none_row_val)/(maximum_of_big_row-none_row_val) * 1))
                             new_row_string += f'& \\cellcolor{{red!6}}{actual_val:.2f}'
                         else:
                             new_row_string += f'& {actual_val:.2f} '

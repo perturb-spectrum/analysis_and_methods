@@ -34,6 +34,8 @@ python quantize_all_channels_tabler.py
 
 bash Section4_BPDA.sh
 python quantize_all_channels_tabler_BPDA.py
+
+python quantize_summary.py
 ```
 
 ### Section 5 (AT and Norm of CNN Kernels)
